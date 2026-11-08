@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="fa" dir="rtl">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>اولین سایت من</title>
+
+    <style>
+
+        body {
+
+            background: #f0f4ff;
+
+            font-family: sans-serif;
+
+            text-align: center;
+
+            padding: 50px 15px;
+
+        }
+
+        h1 {
+
+            color: #3157c8;
+
+        }
+
+        p {
+
+            font-size: 18px;
+
+            color: #333;
+
+        }
+
+        button {
+
+            background: #3157c8;
+
+            color: white;
+
+            border: none;
+
+            padding: 12px 25px;
+
+            border-radius: 10px;
+
+            font-size: 16px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <h1>سلام دنیا! 🌍</h1>
+
+    <p>به اولین سایت من خوش آمدید.</p>
+
+    <button onclick="alert('به سایت من خوش آمدی!')">
+
+        کلیک کن
+
+    </button>
+
+</body>
+
+</html>
